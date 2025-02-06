@@ -6,21 +6,21 @@
     <description>Recent content in Markdown Syntax on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Render Math With Mathjax</title>
-      <link>http://localhost:1313/projets/math/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/projets/math/</guid>
-      <description>&lt;h2 id=&#34;mathjax&#34;&gt;Mathjax&lt;/h2&gt;&#xA;&lt;p&gt;Math equations can be rendered using &lt;a href=&#34;https://www.mathjax.org&#34;&gt;Mathjax&lt;/a&gt; syntax with AMS symbol support.&lt;/p&gt;&#xA;&lt;p&gt;Optionally enable this on a per-page basis by adding &lt;code&gt;mathjax: true&lt;/code&gt; to your frontmatter.&lt;/p&gt;&#xA;&lt;p&gt;Then, use &lt;code&gt;$$ ... $$&lt;/code&gt; on a line by itself to render a block equation:&lt;/p&gt;&#xA;&lt;p&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&lt;/p&gt;&#xA;&lt;p&gt;The raw version is:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write in-line equations with &lt;code&gt;\\( ... \\)&lt;/code&gt; , like \( x^n / y \) . It&amp;rsquo;s easy!&lt;/p&gt;</description>
+      <title>AP SIO I : Création d&#39;une interface graphique</title>
+      <link>http://localhost:1313/projets/csharp/</link>
+      <pubDate>Thu, 31 Oct 2024 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/projets/csharp/</guid>
+      <description>&lt;h2 id=&#34;c&#34;&gt;C#&lt;/h2&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;&#xA;&lt;p&gt;L’authentification est la procédure qui consiste, pour un système informatique, à vérifier l’identité d’une entité (personne, ordinateur…), afin d’autoriser l’accès de cette entité à des ressources (systèmes, réseaux, applications…).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Markdown Syntax</title>
-      <link>http://localhost:1313/projets/markdown-syntax/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/projets/markdown-syntax/</guid>
-      <description>&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
+      <title>AP SIO I : Création d&#39;un formulaire en php</title>
+      <link>http://localhost:1313/projets/php/</link>
+      <pubDate>Fri, 27 Sep 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/projets/php/</guid>
+      <description>&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai du realiser un portfolio en php tout en respectant des consignes précises&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

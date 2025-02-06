@@ -243,12 +243,12 @@ params:
         GPA: ""
         content: |-
    
-      - title: "Bachelor of Science in Computer Science"
+      - title: ""
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: ""
+          url: ""
+        date: ""
+        GPA: ""
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)

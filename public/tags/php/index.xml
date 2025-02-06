@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on Hugo Profile</title>
+    <link>http://localhost:1313/tags/php/</link>
+    <description>Recent content in PHP on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Sep 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP SIO I : Création d&#39;un formulaire en php</title>
+      <link>http://localhost:1313/projets/php/</link>
+      <pubDate>Fri, 27 Sep 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/projets/php/</guid>
+      <description>&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai du realiser un portfolio en php tout en respectant des consignes précises&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
