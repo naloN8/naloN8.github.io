@@ -125,7 +125,7 @@ params:
       disableContact: false
 
   # Hero
-  hero:
+    hero:
     enable: true
     intro: "Bonjour je m'apelle"
     title: "Nolan."
@@ -235,16 +235,14 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Baccalauréat"
         school:
-          name: "University of California, Berkeley"
+          name: "Lycée Jean-Baptiste Vuillaume, Mirecourt"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2022 - 2024"
+        GPA: ""
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+   
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Massachusetts Institute of Technology"
